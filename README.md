@@ -33,15 +33,9 @@ The extracted data is displayed in a simple graphical user interface (GUI) using
 
 ---
 
-## Acknowledgments
-
-We extend our gratitude to **CT Engineering Group** for providing this learning opportunity.
-
----
-
 ## Authors
 
 - **Kacper Stankiewicz**
 - **Miguel Mora**
 
-Thank you to **CT Engineering Group** for the opportunity to develop and compare these technologies.
+We extend our gratitude to **CT Engineering Group** for providing this learning opportunity.
